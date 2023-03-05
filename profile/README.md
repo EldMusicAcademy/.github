@@ -16,4 +16,4 @@ The academy is divded into the following modules:
 * Module 3:
 * Module 4:
 
-##How do assignments work?
+## How do assignments work?
