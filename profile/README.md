@@ -12,6 +12,8 @@
 ## Where do I start?
 With counterpoint! The academy is divded into the following modules:
 
+(these will be linked later)
+* Academy Overview: What to expect, rules, and FAQ: https://github.com/EldMusicAcademy/AcademyOverview
 * Module 1: Counterpoint - https://github.com/EldMusicAcademy/Module1_Counterpoint
 * Module 2: 4-Part Harmony - https://github.com/EldMusicAcademy/Module2
 * Module 3: Function, Tension, and Resolution: Cadences 
