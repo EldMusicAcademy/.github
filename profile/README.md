@@ -12,7 +12,7 @@
 ## Where do I start?
 The academy is divded into the following modules:
 * Module 1: Counterpoint - https://github.com/EldMusicAcademy/Module1_Counterpoint
-* Module 2:
+* Module 2: https://github.com/EldMusicAcademy/Module2
 * Module 3:
 * Module 4:
 
