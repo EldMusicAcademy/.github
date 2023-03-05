@@ -8,3 +8,12 @@
 ## PREREQUISITES (or starter lessons):
 * You can read notes on treble and bass clef
 * You can identify intervals by number (e.g. 2nd, 3rd, 5th). Naming quality (e.g. minor/major) is optional
+
+## Where do I start?
+The academy is divded into the following modules:
+* Module 1: Counterpoint
+* Module 2:
+* Module 3:
+* Module 4:
+
+##How do assignments work?
